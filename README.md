@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <h1>안녕하세요👋</h1>
     <h2>매일 발전하는 프론트엔드 개발자🧑‍💻 이재호 입니다!</h2>
 
