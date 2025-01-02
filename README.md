@@ -1,26 +1,26 @@
 <div align="left">
     <h1>안녕하세요👋</h1>
-    <h2>매일 발전하는 프론트엔드 개발자🧑‍💻 이재호 입니다!</h2>
+    <p>
+        
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&weight=800&size=24&pause=1000&color=6CA0F7&width=435&lines=%EB%A7%A4%EC%9D%BC+%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%EC%9D%B4%EC%9E%AC%ED%98%B8+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+    </p>
 
 <div>
     <h3>📍 Mail & Blog</h2>
-    <div>
+   <div>
         <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-        <p onclick=""copuEmail('ljhdlwogh0104@gmail.com')>
+        <p>
             <a href="#">ljhdlwogh0104@gmail.com</a>
         </p>
     </div>
     <div>
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-         <p onclick=""copuEmail('ljh2735294@naver.com')>
+         <p>
             <a href="#">ljh2735294@naver.com</a>
         </p>
     </div>
     <div>
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-        <p>
-            <a href="https://velog.io/@ljh0104/posts">My Velog</a>
-        </p>
     </div>
     <p>
         
@@ -44,13 +44,4 @@
         </p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJaeHo99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<script>
-function copyEmail(email) {
-  navigator.clipboard.writeText(email).then(() => {
-    alert('이메일 주소가 클립보드에 복사되었습니다: ');
-  });
-}
-</script>
