@@ -1,9 +1,6 @@
 <div align="left">
     <h1>안녕하세요👋</h1>
-    <p>
-        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&weight=800&size=24&pause=1000&color=6CA0F7&width=435&lines=%EB%A7%A4%EC%9D%BC+%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%EC%9D%B4%EC%9E%AC%ED%98%B8+%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
-    </p>
+    <h2>매일 발전하는 개발자👨🏻‍💻 이재호 입니다!</h2>
 
 <div>
     <h3>📍 Mail & Blog</h2>
