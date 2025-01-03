@@ -28,16 +28,16 @@
 <div>
         <h3>📍 Languages  &  Tools</h2>
         <p>
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery" />
+            <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents" />
         </p>
         <p>
-            <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,nodejs" />
+            <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,electron" />
         </p>
         <p>
-            <img src="https://skillicons.dev/icons?i=sass,tailwind,styledcomponents,git,github" />
+            <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,vercel" />
         </p>
         <p>
-            <img src="https://skillicons.dev/icons?i=aws,vercel,mongodb,supabase,vscode" />
+            <img src="https://skillicons.dev/icons?i=aws,mongodb,supabase,git,github" />
         </p>
 </div>
 
