@@ -3,7 +3,7 @@
     <h2>매일 발전하는 개발자👨🏻‍💻 이재호 입니다!</h2>
 
 <div>
-    <h3>📍 Mail & Blog</h2>
+    <h3>📍 Mails & Blog</h2>
    <div>
         <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
         <p>
