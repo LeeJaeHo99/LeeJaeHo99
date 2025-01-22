@@ -39,6 +39,14 @@
         <p>
             <img src="https://skillicons.dev/icons?i=aws,mongodb,supabase,git,github" />
         </p>
+        <p><img src="https://skillicons.dev/icons?i=html" /></p>
+        <p><img src="https://skillicons.dev/icons?i=css" /></p>
+        <p><img src="https://skillicons.dev/icons?i=js" /></p>
+        <p><img src="https://skillicons.dev/icons?i=ts" /></p>
+        <p><img src="https://skillicons.dev/icons?i=jquery" /></p>
+        <p><img src="https://skillicons.dev/icons?i=react" /></p>
+        <p><img src="https://skillicons.dev/icons?i=nextjs" /></p>
+        <p><img src="https://skillicons.dev/icons?i=windows" /></p>
 </div>
 
 </div>
