@@ -25,5 +25,7 @@
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </p>
-    [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogh0104)](https://solved.ac/dlwogh0104)
+    <a href="https://solved.ac/dlwogh0104">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogh0104" alt="Solved.ac 프로필" />
+    </a>
 </div>
