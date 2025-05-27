@@ -17,16 +17,18 @@
     <p>
         <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp;
-        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;
-        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> -->
     </p>
        <h4>✨ Contact ✨</h3>
     <p>
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </p>
-    <br/><br/>
+<!--     <br/><br/>
     <a href="https://solved.ac/dlwogh0104">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogh0104" alt="Solved.ac 프로필" />
-    </a>
+    </a> -->
 </div>
