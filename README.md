@@ -19,8 +19,8 @@
 <!--         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp; -->
         <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
 <!--         <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> -->
-        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;
     </p>
 <!--     <h4>✨ Library ✨</h4>
     <p>
