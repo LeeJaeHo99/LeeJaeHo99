@@ -19,8 +19,8 @@
 <!--         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp; -->
         <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
 <!--         <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> -->
-        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
     </p>
 <!--     <h4>✨ Library ✨</h4>
     <p>
@@ -30,12 +30,8 @@
     </p> -->
     <h4>✨ Contact ✨</h3>
     <p>
-        <a href="mailto:ljh2735294@naver.com" target="_blank">
-            <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <a href="https://smoggy-vault-0e9.notion.site/STUDY-1ed0a514abf4805cb8fbe45572d8f2e8?source=copy_link" target="_blank">
-            <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-        </a>
+        <a href="mailto:ljh2735294@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+        <a href="https://smoggy-vault-0e9.notion.site/STUDY-1ed0a514abf4805cb8fbe45572d8f2e8?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
     </p>
     <br/><br/>
 <!--     <a href="https://solved.ac/dlwogh0104">
