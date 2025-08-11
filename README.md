@@ -28,12 +28,12 @@
         <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
     </p> -->
-    <h4>✨ Etc ✨</h3>
+<!--     <h4>✨ Etc ✨</h3>
     <p>
         <a href="mailto:ljh2735294@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
         <a href="https://smoggy-vault-0e9.notion.site/STUDY-1ed0a514abf4805cb8fbe45572d8f2e8?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
     </p>
-    <br/><br/>
+    <br/><br/> -->
 <!--     <a href="https://solved.ac/dlwogh0104">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dlwogh0104" alt="Solved.ac 프로필" />
     </a> -->
