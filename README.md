@@ -4,7 +4,7 @@
     <p>
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> &nbsp;
-        <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> &nbsp;
     </p>
     <p>
         <img src="https://img.shields.io/badge/react-2599ED?style=for-the-badge&logo=react&logoColor=white"> &nbsp;
@@ -13,6 +13,7 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/angular-FC4E4E?style=for-the-badge&logo=angular&logoColor=white"> &nbsp;
-        <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+        <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
     </p>
 </div>
