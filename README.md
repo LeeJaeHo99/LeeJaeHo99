@@ -12,8 +12,9 @@
         <img src="https://img.shields.io/badge/React Native-0088CC?style=for-the-badge&logo=reactquery&logoColor=white"> &nbsp;
     </p>
     <p>
-        <img src="https://img.shields.io/badge/angular-FC4E4E?style=for-the-badge&logo=angular&logoColor=white"> &nbsp;
+        <!-- <img src="https://img.shields.io/badge/angular-FC4E4E?style=for-the-badge&logo=angular&logoColor=white"> &nbsp; -->
         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp;
-        <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
+        <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
     </p>
 </div>
