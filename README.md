@@ -13,10 +13,10 @@
         <img src="https://img.shields.io/badge/React Native-0088CC?style=for-the-badge&logo=reactquery&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> &nbsp;
     </p>
-    <p>
+    <!-- <p>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> &nbsp;
         <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
-    </p>
+    </p> -->
 </div>
